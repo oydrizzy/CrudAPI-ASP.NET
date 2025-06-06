@@ -1,0 +1,6 @@
+@CrudApiTarea_HostAddress = http://localhost:5268
+
+GET {{CrudApiTarea_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
